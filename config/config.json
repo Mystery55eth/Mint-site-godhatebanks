@@ -1,0 +1,23 @@
+{
+  "CONTRACT_ADDRESS": "0x280D6e2D065861b69E7e9E1Cf81216F0Eaaf8876",
+  "SCAN_LINK": "",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Test ETH",
+    "ID": 5
+  },
+  "NFT_NAME": "Tester123",
+  "SYMBOL": "Test",
+  "MAX_SUPPLY": 10,
+  "FREE_SUPPLY": 5,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 145000,
+  "MAX_PER_TX": 5,
+  "MAX_PER_TX_FREE": 5,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "Telegram": "https://",
+  "Discord": "https://",
+  "Twitter": "https://",
+  "SHOW_BACKGROUND": true
+}
